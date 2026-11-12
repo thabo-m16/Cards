@@ -29,6 +29,39 @@ body{
   background-blend-mode: overlay, normal;
 }
 
+#igama{
+    margin-right: 15px;
+}
 
+#name{
+    padding: 5px;
+    border: 3px solid #fffb02;
+    border-radius: 5px;
+}
+
+#age{
+    padding: 5px;
+    border: 3px solid #fffb02;
+    border-radius: 5px;
+}
+
+#imyaka{
+    margin-right: 15px;
+}
+
+.enterAge{
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+}
+
+#btn{
+    margin-top: 15px;
+    padding: 10px 20px;
+    color: #000;
+    background-color: #c5c20f;
+    border: 2px solid #c5c20f;
+    border-radius: 5px;
+}
 
 
